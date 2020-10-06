@@ -10,7 +10,7 @@
 <!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 
 [<img align="left" alt="chuks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<a href="linkedin.com/in/chuks-ricardo-iloegbunam">
+<a href="https://www.linkedin.com/in/chuks-ricardo-iloegbunam">
 <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <br />
@@ -44,4 +44,4 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[linkedin]: linkedin.com/in/chuks-ricardo-iloegbunam
+[linkedin]: https://linkedin.com/in/chuks-ricardo-iloegbunam
